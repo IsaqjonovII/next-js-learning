@@ -1,0 +1,13 @@
+.navbar {
+    width: 100%;
+    height: 4rem;
+    background: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.link {
+    color: #fff;
+    margin: 0px 20px;
+}
